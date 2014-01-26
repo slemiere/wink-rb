@@ -1,0 +1,1 @@
+# Ruby gem to access to the Wink API (Qwirky)
